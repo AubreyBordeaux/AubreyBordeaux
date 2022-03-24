@@ -12,5 +12,7 @@ My name is Aubrey. I am new to github and enjoying learning my way around!
 - ⚡ Fun fact: I have 2 🐶 🐶 that I 💙 very much!
 
 
-[![Aubrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AubreyBordeaux)](https://github.com/AubreyBordeaux/github-readme-stats)
+
+
+![Aubrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=aubreybordeaux&theme=blue-green&show_icons=true)
 
